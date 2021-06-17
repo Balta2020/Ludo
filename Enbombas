@@ -1,0 +1,10 @@
+
+#EXTM3U
+#EXTINF: 1, Tigo Sports
+https://d20tezjrkz1zmc.cloudfront.net:443/out/v1/70c5e7b2534245f69d923065ffefd6d2/index_6.m3u8
+#EXTINF: 1,  UNIMAS
+https://neuclnlds164dal.akamaized.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_pc.m3u8?h=8b6fd698e35bbfabb8650f19f702a8d8.1623972205953&hdnea=exp=1623972325~acl=/*~hmac=3AF324DF4CA92EFE6FB05EDF5855BFB00E4CCB610F302B14CFD65F65B153B1C1&dfpkey=D8RY01WsRv6SMK6X3AoWAg&nltid=univisionnow&nltdt=0
+#EXTINF: 1, TUDN USA
+https://neuclnlds141dal.akamaized.net/nlds/univisionnow/udn2/as/live/udn2_hd_pc.m3u8?h=f9eb3ab7b2501baea8e30f019483aa51.1623972070170&hdnea=exp=1623972190~acl=/*~hmac=FDA6C0F8A0A05D8907A958C3090CD4744A5E97B6DDBEC7C33C1C72953DE9043C&dfpkey=bQ2JGGVzTpqfCfcTZWay1Q&nltid=univisionnow&nltdt=0
+#EXTINF: 1, Tigo Sports 2
+https://playback2.akamaized.net/streams/28858495_9035716_lsibn9d8tba9bvc1ehv_1/master.m3u8?dw=80&hdnts=exp=1623783325~acl=/streams/28858495_9035716_lsibn9d8tba9bvc1ehv_1/master.m3u8*~hmac=0104b88ba9c4810b1349f0fd1ca2a98721da5e7862f7975e48f8876115b88b61
